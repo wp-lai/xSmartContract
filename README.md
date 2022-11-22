@@ -26,6 +26,7 @@ On Design Patterns
 
  On EVM, Yul, & Assembly
 
+ - [Video: Ethereum in 30 minutes by Vitalik Buterin](https://www.youtube.com/watch?v=UihMqcj-cqc)
  - [Video: Demystifying Ethereum Assembly](https://www.youtube.com/watch?v=btDOvn8pLkA)
  - [Video: EVM - Some Assembly Required](https://www.youtube.com/watch?v=yxgU80jdwL0)
  - [Video: ABI Encoding](https://www.youtube.com/watch?v=RZytWxtKODg)
@@ -35,3 +36,4 @@ On Design Patterns
 ## Into the wild
 
 - [Video: Alice in Proxyland](https://www.youtube.com/watch?v=URxPvAaT7vE)
+- [Article: yAcademy Guide to Proxies](https://hackmd.io/@devtooligan/yAcademyGuideToProxies)
