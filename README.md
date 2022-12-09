@@ -12,11 +12,15 @@ On Smart Contract Security
 - [Video: Building Secure Contracts: Use Echidna Like a Pro](https://archive.devcon.org/archive/watch/6/building-secure-contracts-use-echidna-like-a-pro/?playlist=Security&tab=YouTube)
 - [Video: Bug Patterns in Solidity and Smart Contract Auditing](https://www.youtube.com/watch?v=fwJga_Swk1o)
 
+- [Articles: Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+
 ## Connect the dots
 
 On Design Patterns
 
-+ [5 Smart Contract Patterns I Wish More Devs Would Use](https://www.youtube.com/watch?v=RQVDU8L_c6Q)
++ [Gist: cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol/blob/main/contracts/cheatsheet.sol)
+
++ [Video: 5 Smart Contract Patterns I Wish More Devs Would Use](https://www.youtube.com/watch?v=RQVDU8L_c6Q)
 
 ## Gas golfing
 
@@ -36,4 +40,4 @@ On Design Patterns
 ## Into the wild
 
 - [Video: Alice in Proxyland](https://www.youtube.com/watch?v=URxPvAaT7vE)
-- [Article: yAcademy Guide to Proxies](https://hackmd.io/@devtooligan/yAcademyGuideToProxies)
+- [Article: yAcademy Proxies Research](https://proxies.yacademy.dev/)
